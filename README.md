@@ -1,1 +1,1 @@
-<image source="AlintoshOS.png">
+<image source="AlintoshOS.png"></image>
