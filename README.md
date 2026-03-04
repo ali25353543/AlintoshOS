@@ -1,1 +1,1 @@
-<image source="AlintoshOS.png"></image>
+![Alintosh OS logo](AlintoshOS.png)
