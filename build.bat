@@ -30,3 +30,4 @@ if %errorlevel%==9009 (
   echo install qemu
   exit /b 1
 )
+del /s /q *.o
