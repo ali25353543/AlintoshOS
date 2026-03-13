@@ -10,3 +10,4 @@ for "$a" in "*.asm" do
 done
 ld "$ldflags" "$objects" -o kernel.elf
 qemu-system-x86_64 -kernel kernel.elf
+rm -rf *.o
